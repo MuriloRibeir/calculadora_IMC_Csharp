@@ -1,0 +1,7 @@
+C:\Users\Murilo\source\repos\CalcuIMC\CalcuIMC\bin\Debug\CalcuIMC.exe.config
+C:\Users\Murilo\source\repos\CalcuIMC\CalcuIMC\bin\Debug\CalcuIMC.exe
+C:\Users\Murilo\source\repos\CalcuIMC\CalcuIMC\bin\Debug\CalcuIMC.pdb
+C:\Users\Murilo\source\repos\CalcuIMC\CalcuIMC\obj\Debug\CalcuIMC.csproj.AssemblyReference.cache
+C:\Users\Murilo\source\repos\CalcuIMC\CalcuIMC\obj\Debug\CalcuIMC.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\source\repos\CalcuIMC\CalcuIMC\obj\Debug\CalcuIMC.exe
+C:\Users\Murilo\source\repos\CalcuIMC\CalcuIMC\obj\Debug\CalcuIMC.pdb
